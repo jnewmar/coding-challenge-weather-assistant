@@ -4,9 +4,7 @@ This project is a headless backend service to power a chatbot that tells you if 
 
 ## Walk throw
 
-- https://www.loom.com/share/25003a06e00c46f18d0c36e8e06cccfb?sid=2fca7963-0c5e-4491-aaf0-5024ac42e877
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/25003a06e00c46f18d0c36e8e06cccfb?sid=0e159e3a-f259-4a59-8c43-3f4384be3234" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/share/25003a06e00c46f18d0c36e8e06cccfb?sid=2fca7963-0c5e-4491-aaf0-5024ac42e877
 
 ## Prerequisites
 
